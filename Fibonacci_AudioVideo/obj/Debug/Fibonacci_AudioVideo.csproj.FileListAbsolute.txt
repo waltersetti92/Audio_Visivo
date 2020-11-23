@@ -1,0 +1,10 @@
+C:\Users\Luigi\source\repos\Fibonacci_AudioVideo\Fibonacci_AudioVideo\bin\Debug\Fibonacci_AudioVideo.exe.config
+C:\Users\Luigi\source\repos\Fibonacci_AudioVideo\Fibonacci_AudioVideo\bin\Debug\Fibonacci_AudioVideo.exe
+C:\Users\Luigi\source\repos\Fibonacci_AudioVideo\Fibonacci_AudioVideo\bin\Debug\Fibonacci_AudioVideo.pdb
+C:\Users\Luigi\source\repos\Fibonacci_AudioVideo\Fibonacci_AudioVideo\obj\Debug\Fibonacci_AudioVideo.csprojAssemblyReference.cache
+C:\Users\Luigi\source\repos\Fibonacci_AudioVideo\Fibonacci_AudioVideo\obj\Debug\Fibonacci_AudioVideo.Main.resources
+C:\Users\Luigi\source\repos\Fibonacci_AudioVideo\Fibonacci_AudioVideo\obj\Debug\Fibonacci_AudioVideo.Properties.Resources.resources
+C:\Users\Luigi\source\repos\Fibonacci_AudioVideo\Fibonacci_AudioVideo\obj\Debug\Fibonacci_AudioVideo.csproj.GenerateResource.cache
+C:\Users\Luigi\source\repos\Fibonacci_AudioVideo\Fibonacci_AudioVideo\obj\Debug\Fibonacci_AudioVideo.csproj.CoreCompileInputs.cache
+C:\Users\Luigi\source\repos\Fibonacci_AudioVideo\Fibonacci_AudioVideo\obj\Debug\Fibonacci_AudioVideo.exe
+C:\Users\Luigi\source\repos\Fibonacci_AudioVideo\Fibonacci_AudioVideo\obj\Debug\Fibonacci_AudioVideo.pdb
