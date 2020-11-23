@@ -77,6 +77,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Initial.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Initial.Designer.cs">
+      <DependentUpon>Initial.cs</DependentUpon>
+    </Compile>
     <Compile Include="Main.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -86,6 +92,9 @@
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Uda_server_communication.cs" />
+    <EmbeddedResource Include="Initial.resx">
+      <DependentUpon>Initial.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Main.resx">
       <DependentUpon>Main.cs</DependentUpon>
     </EmbeddedResource>
@@ -115,6 +124,18 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="bin\Debug\resources\galaxy.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\resources\indiana.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\resources\spiral_5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\resources\group.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\resources\group1.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

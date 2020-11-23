@@ -28,7 +28,17 @@
         /// </summary>
         private void InitializeComponent()
         {
+            this.initial1 = new Fibonacci_AudioVideo.Initial();
             this.SuspendLayout();
+            // 
+            // initial1
+            // 
+            this.initial1.BackColor = System.Drawing.Color.Transparent;
+            this.initial1.Location = new System.Drawing.Point(-10, 12);
+            this.initial1.Name = "initial1";
+            this.initial1.parentForm = null;
+            this.initial1.Size = new System.Drawing.Size(857, 359);
+            this.initial1.TabIndex = 0;
             // 
             // Main
             // 
@@ -36,6 +46,7 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackgroundImage = global::Fibonacci_AudioVideo.Properties.Resources.galaxy;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.initial1);
             this.Name = "Main";
             this.Text = "POSTAZIONE AUDIO-VISIVA";
             this.WindowState = System.Windows.Forms.FormWindowState.Maximized;
@@ -45,6 +56,8 @@
         }
 
         #endregion
+
+        private Initial initial1;
     }
 }
 

@@ -39,3 +39,4 @@ C:\Users\Luigi\Source\Repos\Audio_Visivo2\Fibonacci_AudioVideo\obj\Debug\Fibonac
 C:\Users\Luigi\Source\Repos\Audio_Visivo2\Fibonacci_AudioVideo\obj\Debug\Fibonacci_AudioVideo.csproj.CopyComplete
 C:\Users\Luigi\Source\Repos\Audio_Visivo2\Fibonacci_AudioVideo\obj\Debug\Fibonacci_AudioVideo.exe
 C:\Users\Luigi\Source\Repos\Audio_Visivo2\Fibonacci_AudioVideo\obj\Debug\Fibonacci_AudioVideo.pdb
+C:\Users\Luigi\Source\Repos\Audio_Visivo2\Fibonacci_AudioVideo\obj\Debug\Fibonacci_AudioVideo.Initial.resources
