@@ -31,7 +31,6 @@ C:\Users\Luigi\Source\Repos\Audio_Visivo2\Fibonacci_AudioVideo\bin\Debug\System.
 C:\Users\Luigi\Source\Repos\Audio_Visivo2\Fibonacci_AudioVideo\bin\Debug\System.Text.Json.xml
 C:\Users\Luigi\Source\Repos\Audio_Visivo2\Fibonacci_AudioVideo\bin\Debug\System.Threading.Tasks.Extensions.xml
 C:\Users\Luigi\Source\Repos\Audio_Visivo2\Fibonacci_AudioVideo\bin\Debug\System.ValueTuple.xml
-C:\Users\Luigi\Source\Repos\Audio_Visivo2\Fibonacci_AudioVideo\obj\Debug\Fibonacci_AudioVideo.csprojAssemblyReference.cache
 C:\Users\Luigi\Source\Repos\Audio_Visivo2\Fibonacci_AudioVideo\obj\Debug\Fibonacci_AudioVideo.Main.resources
 C:\Users\Luigi\Source\Repos\Audio_Visivo2\Fibonacci_AudioVideo\obj\Debug\Fibonacci_AudioVideo.Properties.Resources.resources
 C:\Users\Luigi\Source\Repos\Audio_Visivo2\Fibonacci_AudioVideo\obj\Debug\Fibonacci_AudioVideo.csproj.GenerateResource.cache
@@ -40,3 +39,5 @@ C:\Users\Luigi\Source\Repos\Audio_Visivo2\Fibonacci_AudioVideo\obj\Debug\Fibonac
 C:\Users\Luigi\Source\Repos\Audio_Visivo2\Fibonacci_AudioVideo\obj\Debug\Fibonacci_AudioVideo.exe
 C:\Users\Luigi\Source\Repos\Audio_Visivo2\Fibonacci_AudioVideo\obj\Debug\Fibonacci_AudioVideo.pdb
 C:\Users\Luigi\Source\Repos\Audio_Visivo2\Fibonacci_AudioVideo\obj\Debug\Fibonacci_AudioVideo.Initial.resources
+C:\Users\Luigi\Source\Repos\Audio_Visivo2\Fibonacci_AudioVideo\obj\Debug\Fibonacci_AudioVideo.Prima_Interazione.resources
+C:\Users\Luigi\Source\Repos\Audio_Visivo2\Fibonacci_AudioVideo\obj\Debug\Fibonacci_AudioVideo.csprojAssemblyReference.cache
