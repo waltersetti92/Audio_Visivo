@@ -148,5 +148,11 @@
   <ItemGroup>
     <None Include="Resources\Transparency_background.png" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Pezzo_0.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\stella.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
