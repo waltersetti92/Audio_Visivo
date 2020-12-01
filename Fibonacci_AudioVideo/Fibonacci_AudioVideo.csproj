@@ -77,7 +77,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Business_Logic.cs" />
     <Compile Include="Initial.cs">
       <SubType>UserControl</SubType>
     </Compile>
@@ -98,7 +97,6 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Uda_server_communication.cs" />
     <EmbeddedResource Include="Initial.resx">
       <DependentUpon>Initial.cs</DependentUpon>
     </EmbeddedResource>
@@ -146,6 +144,9 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="bin\Debug\resources\group1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Transparency_background.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

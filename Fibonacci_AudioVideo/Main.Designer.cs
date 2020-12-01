@@ -43,7 +43,8 @@
             // 
             // prima_Interazione1
             // 
-            this.prima_Interazione1.BackColor = System.Drawing.Color.Transparent;
+            this.prima_Interazione1.BackColor = System.Drawing.Color.White;
+            this.prima_Interazione1.BackgroundImage = global::Fibonacci_AudioVideo.Properties.Resources.Transparency_background;
             this.prima_Interazione1.Location = new System.Drawing.Point(1, 12);
             this.prima_Interazione1.Name = "prima_Interazione1";
             this.prima_Interazione1.parentForm = null;

@@ -16,9 +16,8 @@ namespace Fibonacci_AudioVideo
         public Prima_Interazione()
         {
             InitializeComponent();
-            SetStyle(ControlStyles.SupportsTransparentBackColor, true);
-            SetStyle(ControlStyles.Opaque, true);
-            this.BackColor = Color.Transparent;
+            this.BackgroundImage = Properties.Resources.Transparency_background;
+            this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
         }
         public void setPos(int w, int h)
         {

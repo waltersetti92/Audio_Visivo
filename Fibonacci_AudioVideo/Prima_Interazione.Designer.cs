@@ -34,6 +34,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackgroundImage = global::Fibonacci_AudioVideo.Properties.Resources.Transparency_background;
             this.Name = "Prima_Interazione";
             this.Size = new System.Drawing.Size(927, 675);
             this.Load += new System.EventHandler(this.Prima_Interazione_Load);
