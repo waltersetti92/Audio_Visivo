@@ -18,8 +18,7 @@ namespace Fibonacci_AudioVideo
         private const string background_image = "galaxy.jpg";
         private UserControl currUC = null;
         public Main()
-        {
-            Business_Logic BL = new Business_Logic(this);
+        {        
             InitializeComponent();
             initial1.parentForm = this;
             prima_Interazione1.parentForm = this;

@@ -35,7 +35,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.Name = "Prima_Interazione";
-            this.Size = new System.Drawing.Size(787, 487);
+            this.Size = new System.Drawing.Size(927, 675);
             this.Load += new System.EventHandler(this.Prima_Interazione_Load);
             this.ResumeLayout(false);
 
