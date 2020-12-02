@@ -7,6 +7,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.Media;
+using System.Threading;
+using Newtonsoft.Json;
+using System.IO;
+
 
 namespace Fibonacci_AudioVideo
 {
@@ -18,6 +23,9 @@ namespace Fibonacci_AudioVideo
             InitializeComponent();
             this.BackgroundImage = Properties.Resources.Transparency_background;
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            star1.Visible = false;
+            star2.Visible = false;
+            pezzo0.Visible = false;
         }
         public void setPos(int w, int h)
         {
