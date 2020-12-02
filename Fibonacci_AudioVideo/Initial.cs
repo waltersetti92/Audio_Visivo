@@ -13,9 +13,11 @@ namespace Fibonacci_AudioVideo
     public partial class Initial : UserControl
     {
         public Main parentForm { get; set; }
+        public Prima_Interazione interazione = null;
         public Initial()
         {
             InitializeComponent();
+            interazione = new Prima_Interazione();
             SetStyle(ControlStyles.SupportsTransparentBackColor, true);
             SetStyle(ControlStyles.Opaque, true);
             labLuda.BackColor = Color.Transparent;
@@ -37,7 +39,9 @@ namespace Fibonacci_AudioVideo
         private void button1_Click(object sender, EventArgs e)
         {
             this.Visible = false;
-            parentForm.onStart();
+            if (parentForm.interaction == 1)
+                parentForm.onStart();
+                
         }
     }
 }
