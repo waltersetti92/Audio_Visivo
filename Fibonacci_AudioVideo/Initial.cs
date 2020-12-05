@@ -39,7 +39,6 @@ namespace Fibonacci_AudioVideo
         private void button1_Click(object sender, EventArgs e)
         {
             this.Visible = false;
-            if (parentForm.interaction == 1)
                 parentForm.onStart();
                 
         }

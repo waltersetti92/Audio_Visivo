@@ -31,7 +31,8 @@ namespace Fibonacci_AudioVideo
             this.BackgroundImage = Properties.Resources.Transparency_background;
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             label2.Visible = false;
-        
+            label1.Visible = false;
+            Sequence_Start();      
         }
 
 
@@ -44,7 +45,11 @@ namespace Fibonacci_AudioVideo
             Width = w - 1 * offset;
             Height = h - 1 * offset;
            
+        }
+        public void Sequence_Start()
+        {
 
+ 
         }
         private void Prima_Interazione_Load(object sender, EventArgs e)
         {
